@@ -1,0 +1,24 @@
+---
+title: "draft"
+categories:
+  - Blog
+---
+
+Everyone and their mother --ok actually mostly the mothers in their 30s and 40s -- were getting their ADHD diagnoses in the pandemic and immediate post-pandemic years. I held off on an official diagnosis till now, despite exploring self-diagnosis for two years after a fellow ADHDer diagnosed me in conversation.
+
+When I was exploring a self-diagnosis I gained a lot of self-understanding and compassion. With my spouse, we got better at mutual acceptance, conflict prevention and resolution. With my kids, I started to have more grace with my own overstimulation and understimulation.  And I thought that was enough. 
+
+Then for various reasons I recently thought I could use more support. Maybe even meds. I decided a diagnosis could be helpful. But... I had such a deep fear of being told I was mistaken, a normie, not struggling with neurodivergence after all. You know?  How humiliating that would be, to be the hypochondriac female in the doctor's office, prostrating myself at the feet of their superior knowledge.  Driven by that fear I searched for the right provider for ... months. There's a serious dearth of medical providers, never mind adhd specialists, in my area. But finally, I found a self-identified AuDHD, neuroaffirming psychiatric nurse who mentioned having pathological demand avoidance and liking n.k. jemison's books on her website. My kind of person! And covered by insurance, wonders of wonders! I couldn't sign up fast enough. Then I spilled my guts for a 90 minute interview, filled out 2 self-evals, my spouse filled out an eval on me from his perspective... and was told I had high-masking ADHD. 
+
+I wasn't expecting the official diagnosis to impact the emotionality of my own private, closely guarded self-diagnosis. Boy was I in for a surprise. For like 5 days i couldn't go 5 minutes without my whole self being struck like a gong by the thought: "You have ADHD!" I felt a helpless urgency to "fix it" which, thankfully, i had a lot of skill around not responding to.
+
+It's strange how the official diagnosis has really let me embrace the knowledge of weaknesses (and strengths) that were previously half hidden to me. Like all these patterns that were mysterious, unvoiced, unlabeled, but painful or shameful or confusing, now can come to light. I find myself having permission to drop habitual defensiveness for example and really feal the hurt of RSD, the almost toddler-like propensity to cry at the slightest criticism from a loved one around anything ADHD related. That's ok; i know it's dysfunctional, and I know only by allowing with the pattern awareness will i start to heal it.
+As another example, i will never be great at doing the dishes in a prompt manner. And that promptness matters to my spouse. So when i always failed at his requests to keep a clean counter (which he does seemingly easily when I'm away traveling) I was confused. How can i be so smart and capable yet fail to do this thing that is important to him? Id i couldn't name my weakness; it was like, either i have to dispute with him that the thing is important, or i have to conclude that i'm incapable of  caring and am therfore naturally inconsiderate. Now i can say: it's a weakness. I will always need extra systems and support around this and i still might not be great at it. How freeing!
+
+I've also been thinking about how with time, i will probably lose my enthusiasm for identifying with the ADHD label as it is currently understood. I'm a chameleon after all (how very ADHD of me). And how it's useful to separate out the social disabilty model of this condition from the functional, healthy, neurodivergent operating system that can exist when i take care of myself and heal. An ADHD meditation teacher calls the dysfunctional side of it "attention overload stress disorder" which i like a great deal. Someone else calls it "a dysfunction of the nervous system where you view understimulation (the kind where nothing feels worth doing) as dangerous". I find that definition very useful because i have lots of awareness practice with false danger signals, such as recovering from my now mostly healed chronic dyspepsia and insomia.
+
+ Anyway. It encourages me to sit in awareness with  feelings that the present moment is deeply empty -- frighteningly still, silent, alone and separate, and know that its healing work for me. Such experiences feel less like glimpses of existential terror for me these days.
+
+I have a propensity for tortured acronyms and I've been musing on what to call this pattern of brain operating system when it's not dysfunctional. "Integrative, stochastic exploratory, interest-based attention"? What an awful mouthful. Anyway. I'll keep musing on it. 
+
+I think the ADHD label will continue  to be juicy and healing for me for several years to come, so here's to the journey! 

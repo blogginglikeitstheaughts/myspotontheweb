@@ -14,3 +14,7 @@ Here's what I did:
 - set up automated above-ground irrigation (out-of-sight, out-of-mind is a real problem for me, so I'm increasingly leaning toward above ground. Better wasting water on a little evaporation than on hidden, underground leaks!)
 
   To be capable of this heavy manual labor without chronic joint pain feels like a supreme triumph. Go me! 
+
+
+Here's a shot of some of the newly seeded areas (the grasses in the middle represent last year's test plot)
+![image](https://github.com/user-attachments/assets/6ab88520-77b0-4ab8-bb4e-0055df91f62f)

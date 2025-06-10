@@ -11,6 +11,6 @@ Here's what I did:
 - laid down preliminary stonework for paths, and adjusted paths. will bark mulch them in future
 - tilled and weeded with a lil 1-ft long mattock, squatting to do so, because I'm my own eccentric person and I have to do things my way, apparently
 - seeded a native grass mix and wildflowers
-- set up automated irrigation
+- set up automated above-ground irrigation (out-of-sight, out-of-mind is a real problem for me, so I'm increasingly leaning toward above ground. Better wasting water on a little evaporation than on hidden, underground leaks!)
 
   To be capable of this heavy manual labor without chronic joint pain feels like a supreme triumph. Go me! 

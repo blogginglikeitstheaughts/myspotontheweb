@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Bloggin' like it's the early aughts"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "lil observations on hobbies, projects, etc"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

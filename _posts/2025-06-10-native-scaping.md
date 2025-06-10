@@ -4,7 +4,7 @@
 
 So excited to have made progress! I really, really love the heavy labor of moving soil, now I own a digging bar and mattock that is. Before that, gardening was impossible with our desert hardpan. With the right tools, I feel powerful and empowered.
 
-I:
+Here's what I did:
 
 - moved 1.5 cubic yard of topsoil
 - regraded a slope using a yard-long level and a stiff piece of cardboard as an extention

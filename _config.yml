@@ -17,8 +17,8 @@ title: My spot on the web
 email:
 description: >- # this means to ignore newlines until "baseurl:"
    My personal corner of the internet; bloggin early aughts style.
-# twitter_username: username
-# github_username: username
+twitter_username: username
+github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -56,7 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bloggin' like iit's the early aughts"
+  name   : "Bloggin' like it's the early aughts"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:

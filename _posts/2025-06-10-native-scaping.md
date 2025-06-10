@@ -2,7 +2,7 @@
 "title": "Working on native relandscaping the backyard"
 ---
 
-So excited to have made progress! I really, really love the heavy labor of moving soil, now I own a digging bar and mattock that is. Before that, gardening was impossible with our desert hardpan. With the right tools, I feel powerful and empowered.
+So excited to have made progress! I really, really love the heavy labor of moving soil -- now I own a digging bar and mattock, that is. Before that, gardening was impossible with our desert hardpan. With the right tools, I feel powerful and empowered.
 
 Here's what I did:
 
@@ -13,8 +13,9 @@ Here's what I did:
 - seeded a native grass mix and wildflowers
 - set up automated above-ground irrigation (out-of-sight, out-of-mind is a real problem for me, so I'm increasingly leaning toward above ground. Better wasting water on a little evaporation than on hidden, underground leaks!)
 
-  To be capable of this heavy manual labor without chronic joint pain feels like a supreme triumph. Go me! 
+To be capable of this heavy manual labor without chronic joint pain feels like a supreme triumph. Go me! Definitely feeling so much better in my body in my early 40s than I did in my early 30s
 
 
 Here's a shot of some of the newly seeded areas (the grasses in the middle represent last year's test plot). I'll update when it's grown in!
+
 ![image](https://github.com/user-attachments/assets/6ab88520-77b0-4ab8-bb4e-0055df91f62f)

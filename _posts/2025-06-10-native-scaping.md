@@ -16,5 +16,5 @@ Here's what I did:
   To be capable of this heavy manual labor without chronic joint pain feels like a supreme triumph. Go me! 
 
 
-Here's a shot of some of the newly seeded areas (the grasses in the middle represent last year's test plot)
+Here's a shot of some of the newly seeded areas (the grasses in the middle represent last year's test plot). I'll update when it's grown in!
 ![image](https://github.com/user-attachments/assets/6ab88520-77b0-4ab8-bb4e-0055df91f62f)

@@ -11,4 +11,7 @@ Yay!
 
 ![image](https://github.com/user-attachments/assets/7889cb83-7814-477c-8efa-afb222763821)
 
-By the way, I use the hammer-in-a-sewing pin solution to hang all sorts of lightweight art on my walls, up to and including my larger art quilts! So flexible and fun. My mom tipped me on to that approach. Dollar store frames are perfect for this approach cause they're super lightweight. 
+By the way, I use the hammer-in-a-sewing pin solution to hang all sorts of lightweight art on my walls, up to and including my larger art quilts! So flexible and fun. My mom tipped me on to that approach. Dollar store frames are perfect for this approach cause they're super lightweight.  here's the backside of a frame to give you an idea.
+
+![image](https://github.com/user-attachments/assets/d40fcd2b-81a0-4e1c-9f35-edc97d9454bb)
+

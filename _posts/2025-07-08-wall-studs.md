@@ -6,7 +6,7 @@ Our urrent house has the most difficult-to-find wall studs I've ever encountered
 
 Enough already!
 
-I found an extremely clever solution: I hammer a sturdy sewing pin into the wall with a small hammer. If it goes in all the way, there's no stud. If it stops halfway in, there's a stud. The pinprick holes it leaves behind are virtually invisible.
+I feel extremely clever about my solution: I hammer a sturdy sewing pin into the wall with a small hammer. If it goes in all the way, there's no stud. If it stops halfway in, there's a stud. The pinprick holes it leaves behind are virtually invisible.
 Yay! 
 
 ![image](https://github.com/user-attachments/assets/7889cb83-7814-477c-8efa-afb222763821)

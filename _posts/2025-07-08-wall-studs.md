@@ -2,7 +2,7 @@
 title: Finding wall studs with a sewing pin
 ---
 
-Our urrent house has the most difficult-to-find wall studs I've ever encountered. Something to do with the heavily textured paint perhaps? Recently I tried using two stud finders -- one cheap, one fancy -- and STILL ended up drilling 5(!) unsuccessful holes before I found a stud, more or less by luck!
+Our urrent house has the most difficult-to-find wall studs I've ever encountered. Something to do with the heavily textured paint perhaps? Recently I tried using two stud finders -- one cheap, one fancy -- plus rapping my knuckles on the walls, and I STILL ended up drilling 5(!) unsuccessful holes before I found a stud, more or less by luck!
 
 Enough already!
 
